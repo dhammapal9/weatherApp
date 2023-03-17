@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+
+    <string name="coordinate">Coordinate</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="baseDtl">Base:</string>
+
+    <string name="temp">Temp:</string>
+    <string name="feels_like">Feels like:</string>
+    <string name="temp_min">Temp min:</string>
+    <string name="temp_max">Temp max:</string>
+    <string name="pressure">Pressure:</string>
+    <string name="humidity">Humidity:</string>
+
+    <string name="speed">Speed:</string>
+    <string name="deg">Deg:</string>
+    <string name="all">All:</string>
+
+    <string name="country">Country:</string>
+    <string name="sunrise">Sunrise:</string>
+    <string name="sunset">Sunset:</string>
+
+    <string name="nameDtl">Name:</string>
+
+    <string name="weather">Weather</string>
+    <string name="base">Base</string>
+    <string name="main">Main</string>
+    <string name="wind">Wind</string>
+    <string name="clouds">Clouds</string>
+    <string name="sys">Sys</string>
+    <string name="name">Name</string>
+    <string name="searchcity">Search City</string>
+
+    <string name="nodata">City/Weather Details Not Found.</string>
+    <string name="nointernet">No Internet Access.</string>
+
+    <string name="search">Search</string>
+    <string name="searchweatherviacity">Search weather via City</string>
+
+
+</resources>
